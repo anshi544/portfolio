@@ -98,7 +98,7 @@ with col2:
 # Resume Section
 st.header("Resume")
 
-with open("resume.pdf", "rb") as pdf_file:
+with open("Resume.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 
 st.download_button(
