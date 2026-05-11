@@ -37,6 +37,5 @@ Anshika Saxena
 B.Tech CSE-AI Student | Python & AI Enthusiast
 
 ## 📬 Contact
-💼 LinkedIn: https://www.linkedin.com/in/anshika-saxena-14502b311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+💼 LinkedIn: https://www.linkedin.com/in/anshika-saxena-14502b311
 🐙 GitHub: https://github.com/anshi544
