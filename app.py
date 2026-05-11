@@ -112,7 +112,7 @@ st.download_button(
 st.header("Contact")
 
 st.write("📧 Email: anshi.saxena2004@gmail.com")
-st.write("💼 LinkedIn: https://www.linkedin.com/in/anshika-saxena-14502b311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app")
+st.write("💼 LinkedIn: https://www.linkedin.com/in/anshika-saxena-14502b311")
 st.write("🐙 GitHub: https://github.com/anshi544")
 
 # Footer
