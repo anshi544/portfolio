@@ -3,7 +3,7 @@
 A modern AI-themed portfolio website built using Streamlit and Python to showcase my skills, projects, resume, and contact details.
 
 ## 🚀 Live Demo
-🔗 Portfolio Link: https://portfolio-dtnvsapyt5jaxw6rnigysw.streamlit.app/#ai-study-planner
+🔗 Portfolio Link: https://portfolio-i4uqben889xngfuuzc58t2.streamlit.app/
 
 ## 🚀 Features
 - Dark themed UI
